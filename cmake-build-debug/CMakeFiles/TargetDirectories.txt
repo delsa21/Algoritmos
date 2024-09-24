@@ -1,0 +1,3 @@
+/Users/diana/CLionProjects/Trabajos/LinearSearch/cmake-build-debug/CMakeFiles/clase3_2.dir
+/Users/diana/CLionProjects/Trabajos/LinearSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diana/CLionProjects/Trabajos/LinearSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
